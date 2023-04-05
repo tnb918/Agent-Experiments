@@ -12,5 +12,3 @@ Using DQN algorithm design and implementation of a Grid World small game
 
 ## experiment_4
 Using Q-Learning algorithm of reinforcement learning to solve the robot room path planning problem
-
-![image](C:\\Users\\TNB\\Desktop\\requirements.png)
