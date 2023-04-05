@@ -1,4 +1,4 @@
-# Agent_experiments
+# Agent_Experiments
 Four Experiments in the Course of Intelligent Information Processing Based on Agent
 
 ## experiment_1
